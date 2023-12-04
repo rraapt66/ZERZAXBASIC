@@ -1,0 +1,40 @@
+
+ Listing C:\Users\siwat\OneDrive\BEDD~1\fa\
+ New files added to this directory will not be compressed.
+
+        0 :         0 = 1.0 to 1   APB_Log.txt
+       25 :        25 = 1.0 to 1   error.bat
+     2666 :      2666 = 1.0 to 1   fullclean.bat
+     6569 :      6569 = 1.0 to 1   fullclean2.bat
+     1963 :      1963 = 1.0 to 1   fullclean3.bat
+       57 :        57 = 1.0 to 1   requirements.txt
+      105 :       105 = 1.0 to 1   setup.bat
+     6193 :      6193 = 1.0 to 1   win112.bat
+     4396 :      4396 = 1.0 to 1   win113.2.bat
+     8356 :      8356 = 1.0 to 1   win11boost.bat
+     4428 :      4428 = 1.0 to 1   win11boost22.bat
+     8677 :      8677 = 1.0 to 1   win11r.bat
+   275283 :    275283 = 1.0 to 1   ZERZAX.bat
+       68 :        68 = 1.0 to 1   อ่านก่อนใช้.txt
+
+Of 14 files within 1 directories
+0 are compressed and 14 are not compressed.
+318,786 total bytes of data are stored in 318,786 bytes.
+The compression ratio is 1.0 to 1.
+
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
+The operation completed successfully.
